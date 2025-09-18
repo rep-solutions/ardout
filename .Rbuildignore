@@ -1,2 +1,13 @@
 ^ardout\.Rproj$
 ^\.Rproj\.user$
+^LICENSE\.md$
+^README\.Rmd$
+^\.github$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
+^CODE_OF_CONDUCT\.md$
+^cran-comments\.md$
+^data-raw$
+^scripts$
+^\.lintr$
