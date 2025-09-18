@@ -2,7 +2,7 @@
 output: github_document
 ---
 
-<!-- README.md is generated from README.Rmd. Please edit that file -->
+<!-- README.md is generated from README.Rmd. Please edit that file  -->
 
 ```{r, include = FALSE}
 knitr::opts_chunk$set(
@@ -34,7 +34,7 @@ pak::pak("rep-solutions/ardout")
 
 This is a basic example which shows you how to solve a common problem:
 
-```{r example}
+```{r example, eval=FALSE}
 library(ardout)
 ## basic example code
 ```
