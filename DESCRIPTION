@@ -1,8 +1,8 @@
 Package: ardout
-Title: What the Package Does (One Line, Title Case)
+Title: Converting analysis results data (ARD) into tabular data for gt processing
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
+    person("Marc", "Cox", , "cox_marc@hotmail.com", role = c("aut", "cre"))
 Description: What the package does (one paragraph).
 License: MIT + file LICENSE
 URL: https://github.com/rep-solutions/ardout,
