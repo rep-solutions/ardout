@@ -1,3 +1,3 @@
 hello <- function(name = "world") {
-  sprintf("Hello, %s!", name)
+  sprintf("Hello world, %s!", name)
 }
